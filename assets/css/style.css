@@ -1,0 +1,43 @@
+body {
+  background-image: url("img/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Gelasio', serif;
+}
+
+header {
+  color: white;
+}
+
+nav ul {
+  text-align: right;
+}
+
+nav ul li {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+nav ul li a {
+  color: white;
+  margin-left: 5px;
+  text-transform: uppercase;
+}
+
+#test1 {
+  margin-top: 125px;
+  color: white;
+  font-size: 1.6em;
+}
+
+#test2 img {
+  width: 250px;
+  height: 250px;
+}
+
+#test3 {
+  color: white;
+  font-size: 1.2em;
+}
+/*# sourceMappingURL=style.css.map */
